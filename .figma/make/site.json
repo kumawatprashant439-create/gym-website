@@ -1,0 +1,10 @@
+{
+  "description": "Showcases gym services with membership plans, trainer profiles, and testimonials to attract and engage fitness enthusiasts seeking transformation.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
